@@ -1,0 +1,7 @@
+boto3
+sagemaker
+AWSIoTPythonSDK
+pandas
+scikit-learn
+joblib
+numpy
