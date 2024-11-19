@@ -81,7 +81,7 @@ Getting Started
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     bashCopy codegit clone https://github.com/dankends/traffic-optimization-AWS.git
-    cd traffic-optimization-project
+    cd traffic-optimization-AWS
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2.  **Install dependencies**:
