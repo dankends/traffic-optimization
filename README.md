@@ -143,9 +143,3 @@ Getting Started
         use the`src/Endpoint.ipynb` to deploying your trained model as a
         real-time endpoint in Amazon SageMaker involves a few key steps. Here's
         a step-by-step guide:
-
-License
--------
-
-This project is licensed under the MIT License - see the LICENSE file for
-details.
