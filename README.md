@@ -80,7 +80,7 @@ Getting Started
 1.  **Clone the repository**:
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    bashCopy codegit clone https://github.com/dankends/traffic-optimization.git
+    bashCopy codegit clone https://github.com/dankends/traffic-optimization-AWS.git
     cd traffic-optimization-project
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
