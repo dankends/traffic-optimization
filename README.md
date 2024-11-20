@@ -67,14 +67,6 @@ AWS Services Used
 Getting Started
 ---------------
 
-### Prerequisites
-
--   An AWS account with permissions for SageMaker, IoT, Kinesis, Lambda, and S3.
-
--   Python 3.7 or higher.
-
--   Required packages listed in `requirements.txt`.
-
 ### Installation
 
 1.  **Clone the repository**:
